@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\August Lin\Documents\GitHub\Mitter\Laravel\Mitter\resources\views/welcome.blade.php ENDPATH**/ ?>
